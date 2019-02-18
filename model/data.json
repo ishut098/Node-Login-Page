@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "email": "ishu@nineleaps.com",
+            "password": "password",
+            "isAdmin":true,
+            "name": "Ishu Tiwari"
+        },
+        {
+            "email": "shubham@nineleaps.com",
+            "password": "password",
+            "isAdmin":false,
+            "name": "Shubham Kumar"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "students":[
+      {
+        "name": "Promod Pandey",
+        "class": "10th",
+        "roll_no": 11212,
+        "age": 15
+      },
+      {
+        "name": "Ashutosh",
+        "class": "11th",
+        "roll_no": 11213,
+        "age": 16
+      },
+      {
+        "name": "Himanshu",
+        "class": "9th",
+        "roll_no": 11214,
+        "age": 12
+      },
+      {
+        "name": "Rishu Tiwari",
+        "class": "12th",
+        "roll_no": 22125,
+        "age": 17
+      },
+      {
+        "name": "Nathan",
+        "class": "12th",
+        "roll_no": 12452,
+        "age": 18
+      }
+    ]
+}
